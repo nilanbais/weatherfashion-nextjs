@@ -84,9 +84,6 @@ export default function UserInputForm() {
 
                 </div>
             </div>
-
-
-
         </Form>
     );
 };

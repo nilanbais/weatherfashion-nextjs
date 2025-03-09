@@ -1,4 +1,4 @@
-import { WFLogoBig } from '@/app/ui/wf-logo';
+import { WFLogoBig } from '@/app/ui/wf-logos';
 import { ArrowRightIcon } from '@heroicons/react/24/outline';
 import Link from 'next/link';
 import styles from '@/app/ui/home.module.css'
