@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import NavLinks from '@/app/ui/dashboard/nav-links';
-import WFLogo from '@/app/ui/wf-logo';
+import { WFLogo } from '@/app/ui/wf-logo';
 import { PowerIcon } from '@heroicons/react/24/outline';
 
 export default function SideNav() {
@@ -11,7 +11,7 @@ export default function SideNav() {
       >
         <div className="w-32 text-white md:w-40">
           <WFLogo />
-          
+
         </div>
       </div>
 
